@@ -2,30 +2,32 @@
 ## TweetEdu!
     The project is to stream the live tweets from twitter
 
-#Dependencies <br>
-    Twitter Developer account
-    Twitter package(Nodejs)
-    Express
-    Socket.io
+# Dependencies <br>
+    Twitter Developer account <br>
+    Twitter package(Nodejs) <br>
+    Express<br>
+    Socket.io<br>
 
-#To Run
+# To Run
      Clone or Download the repository and Run below command 
 
      `npm install`
 
-   1.Create a account in Twiiter developer account and wait for the conformation
-   2.After get conformation from Twitter developer community Go the developer account
-   3.Create a app that will Give the
-            > API key
-            > API secret Key
-            > Access Token Key
-            > Access Token Secret
-    4.After getting all the key replace the keys in tweet.js file as mentioned below
+   1.Create a account in Twiiter developer account and wait for the conformation<br>
+   2.After get conformation from Twitter developer community Go the developer account<br>
+   3.Create a app that will Give the<br>
+   
+         > API key<br>
+         > API secret Key<br>
+         > Access Token Key<br>
+         > Access Token Secret<br>
+                
+    4.After getting all the key replace the keys in tweet.js file as mentioned below<br>
 
-        consumer_key:'API key',
-        consumer_secret: 'API secret Key',
-        access_token_key:'Access Token Key',
-        access_token_secret:'Access Token Secret'
+        consumer_key:'API key',<br>
+        consumer_secret: 'API secret Key',<br>
+        access_token_key:'Access Token Key',<br>
+        access_token_secret:'Access Token Secret'<br>
 
  After replacing the move to server folder and Run the server by below commands
 
@@ -37,26 +39,26 @@ After moving Start the server by below command
        
 After that to Run the front end Run the below command
 
-### `npm Run start`
+     `npm Run start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    Runs the app in the development mode.<br>
+    Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-You will also see any lint errors in the console.
+    You will also see any lint errors in the console.
 
 
 
-This command for To test and deploy the appication this is not necessary to Run 
+   This command for To test and deploy the appication this is not necessary to Run 
 
-### `npm test`
+     `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](#running-tests) for more information.
+   Launches the test runner in the interactive watch mode.<br>
+   See the section about [running tests](#running-tests) for more information.
 
-### `npm run build`
+     `npm run build`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   Builds the app for production to the `build` folder.<br>
+   It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+   The build is minified and the filenames include the hashes.<br>
+   Your app is ready to be deployed!
