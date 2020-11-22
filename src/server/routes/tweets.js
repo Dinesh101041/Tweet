@@ -5,8 +5,8 @@ module.exports = (app, io) => {
         consumer_key:'pTCLhi0DslLBxryWZUp163sdk',
         consumer_secret: 'K2KDO4CWW13TJFMyqMoslHnKnAYsSWUfRykXjeK3UNcl3v4TFW',
         access_token_key:'862938132227932160-kN8H9WXUZ18fV8Aab79zhJXsdETPGij',
-        access_token_secret:'TxqLfBo3oxRitBoETm3aroeJ89X9W2Srp4khkDjpZZv4z',
-        // bearer_token: '862938132227932160-CtkVM1KcnziD443FtZV6c1jdy31aEV7'
+        access_token_secret:'TxqLfBo3oxRitBoETm3aroeJ89X9W2Srp4khkDjpZZv4z'
+        
     });
 
     let socketConnection;
