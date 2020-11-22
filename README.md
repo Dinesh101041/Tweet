@@ -12,6 +12,9 @@
      Clone or Download the repository and Run below command 
 
      `npm install`
+     
+     
+# To Get Twitter API key
 
    1.Create a account in Twiiter developer account and wait for the conformation<br>
    2.After get conformation from Twitter developer community Go the developer account<br>
@@ -22,7 +25,7 @@
          > Access Token Key<br>
          > Access Token Secret<br>
                 
-    4.After getting all the key replace the keys in tweet.js file as mentioned below<br>
+   4.After getting all the key replace the keys in tweet.js file as mentioned below<br>
 
         consumer_key:'API key',<br>
         consumer_secret: 'API secret Key',<br>
