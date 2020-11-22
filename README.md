@@ -2,7 +2,7 @@
 ## TweetEdu!
     The project is to stream the live tweets from twitter
 
-##Dependencies 
+#Dependencies <br>
     Twitter Developer account
     Twitter package(Nodejs)
     Express
