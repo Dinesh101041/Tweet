@@ -3,10 +3,10 @@
     The project is to stream the live tweets from twitter
 
 # Dependencies <br>
-    Twitter Developer account <br>
-    Twitter package(Nodejs) <br>
-    Express<br>
-    Socket.io<br>
+    Twitter Developer account 
+    Twitter package(Nodejs) 
+    Express
+    Socket.io
 
 # To Run
      Clone or Download the repository and Run below command 
@@ -27,10 +27,10 @@
                 
    4.After getting all the key replace the keys in tweet.js file as mentioned below<br>
 
-        consumer_key:'API key',<br>
-        consumer_secret: 'API secret Key',<br>
-        access_token_key:'Access Token Key',<br>
-        access_token_secret:'Access Token Secret'<br>
+        consumer_key:'API key',
+        consumer_secret: 'API secret Key',
+        access_token_key:'Access Token Key',
+        access_token_secret:'Access Token Secret'
 
  After replacing the move to server folder and Run the server by below commands
 
@@ -55,7 +55,7 @@ After that to Run the front end Run the below command
 
      `npm test`
 
-   Launches the test runner in the interactive watch mode.<br>
+   Launches the test runner in the interactive watch mode.
    See the section about [running tests](#running-tests) for more information.
 
      `npm run build`
