@@ -20,10 +20,10 @@
    2.After get conformation from Twitter developer community Go the developer account<br>
    3.Create a app that will Give the<br>
    
-         > API key<br>
-         > API secret Key<br>
-         > Access Token Key<br>
-         > Access Token Secret<br>
+         > API key
+         > API secret Key
+         > Access Token Key
+         > Access Token Secret
                 
    4.After getting all the key replace the keys in tweet.js file as mentioned below<br>
 
@@ -34,7 +34,7 @@
 
  After replacing the move to server folder and Run the server by below commands
 
-    `cd/src/server - This command is to move to the server folder (windown)`
+    `cd/src/server - This command is to move to the server folder (windows)`
 
 After moving Start the server by below command
 
