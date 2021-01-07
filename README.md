@@ -11,7 +11,7 @@
 # To Run
      Clone or Download the repository and Run below command 
 
-     `npm install`
+         npm install
      
      
 # To Get Twitter API key
@@ -34,15 +34,15 @@
 
  After replacing the move to server folder and Run the server by below commands
 
-    `cd/src/server - This command is to move to the server folder (windows)`
+    cd/src/server - This command is to move to the server folder (windows)
 
 After moving Start the server by below command
 
-    `node server.js`
+    node server.js
        
 After that to Run the front end Run the below command
 
-     `npm Run start`
+     npm Run start
 
     Runs the app in the development mode.<br>
     Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -53,12 +53,12 @@ After that to Run the front end Run the below command
 
    This command for To test and deploy the appication this is not necessary to Run 
 
-     `npm test`
+     npm test
 
    Launches the test runner in the interactive watch mode.
    See the section about [running tests](#running-tests) for more information.
 
-     `npm run build`
+     npm run build
 
    Builds the app for production to the `build` folder.<br>
    It correctly bundles React in production mode and optimizes the build for the best performance.
