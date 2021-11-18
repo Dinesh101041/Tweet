@@ -3,7 +3,6 @@ import React from 'react';
 class CardComponent extends React.Component {
     render() {
         let data = this.props.data;
-
         return (
             <div>
                 <div className="card-panel grey lighten-5 z-depth-3 hoverable thin">
