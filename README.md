@@ -50,7 +50,6 @@ After that to Run the front end Run the below command
     You will also see any lint errors in the console.
 
 
-
    This command for To test and deploy the appication this is not necessary to Run 
 
      npm test
